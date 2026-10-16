@@ -1,2 +1,12 @@
 # My-First-Project.
-My first software development project."
+I am a beginner learning software development
+and artificial intelligence.
+## My Goals
+- Learn Python programming.
+- Understand artificial intelligence.
+- Build useful digital products.
+- Develop my software development skills.
+
+## Current Progress
+I have created my first GitHub repository
+and am learning how to use GitHub.
